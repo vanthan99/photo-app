@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/photo-app/static/css/main.ede3027c.chunk.css",
+    "main.js": "/photo-app/static/js/main.8558f5b9.chunk.js",
+    "main.js.map": "/photo-app/static/js/main.8558f5b9.chunk.js.map",
+    "runtime-main.js": "/photo-app/static/js/runtime-main.16b22f19.js",
+    "runtime-main.js.map": "/photo-app/static/js/runtime-main.16b22f19.js.map",
+    "static/css/2.11829350.chunk.css": "/photo-app/static/css/2.11829350.chunk.css",
+    "static/js/2.1370ba5d.chunk.js": "/photo-app/static/js/2.1370ba5d.chunk.js",
+    "static/js/2.1370ba5d.chunk.js.map": "/photo-app/static/js/2.1370ba5d.chunk.js.map",
+    "static/js/3.06c556b5.chunk.js": "/photo-app/static/js/3.06c556b5.chunk.js",
+    "static/js/3.06c556b5.chunk.js.map": "/photo-app/static/js/3.06c556b5.chunk.js.map",
+    "static/css/4.44f0f616.chunk.css": "/photo-app/static/css/4.44f0f616.chunk.css",
+    "static/js/4.03d25a65.chunk.js": "/photo-app/static/js/4.03d25a65.chunk.js",
+    "static/js/4.03d25a65.chunk.js.map": "/photo-app/static/js/4.03d25a65.chunk.js.map",
+    "index.html": "/photo-app/index.html",
+    "precache-manifest.45fca8bbcb403500c3b531c4111bfabb.js": "/photo-app/precache-manifest.45fca8bbcb403500c3b531c4111bfabb.js",
+    "service-worker.js": "/photo-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/photo-app/static/css/2.11829350.chunk.css.map",
+    "static/css/4.44f0f616.chunk.css.map": "/photo-app/static/css/4.44f0f616.chunk.css.map",
+    "static/css/main.ede3027c.chunk.css.map": "/photo-app/static/css/main.ede3027c.chunk.css.map",
+    "static/js/2.1370ba5d.chunk.js.LICENSE.txt": "/photo-app/static/js/2.1370ba5d.chunk.js.LICENSE.txt",
+    "static/js/3.06c556b5.chunk.js.LICENSE.txt": "/photo-app/static/js/3.06c556b5.chunk.js.LICENSE.txt",
+    "static/media/blue-bg.jpg": "/photo-app/static/media/blue-bg.146c36c8.jpg",
+    "static/media/colorful-bg.jpg": "/photo-app/static/media/colorful-bg.cb9ae265.jpg",
+    "static/media/logo.svg": "/photo-app/static/media/logo.5d5d9eef.svg",
+    "static/media/orange-bg.jpg": "/photo-app/static/media/orange-bg.e6624e7e.jpg",
+    "static/media/pink-bg.jpg": "/photo-app/static/media/pink-bg.c8426a37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b22f19.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.1370ba5d.chunk.js",
+    "static/css/main.ede3027c.chunk.css",
+    "static/js/main.8558f5b9.chunk.js"
+  ]
+}
